@@ -1,1 +1,25 @@
-# 2ariketa
+<!DOCTYPE html>
+<html lang="eu">
+<head>
+    <meta charset="UTF-8">
+    <title>Sarrera</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        h1 { color: #000000; }
+        nav a { margin-right: 10px; font-weight: bold; text-decoration: none; color: #ff5f3b; }
+    </style>
+</head>
+<body>
+    <h1>Sarrera Orrialdea</h1>
+    <nav>
+        <a href="lehena.html">Lehena</a>
+        <a href="bigarrena.html">Bigarrena</a>
+        <a href="hirugarrena.html">Hirugarrena</a>
+    </nav>
+    <p>Ongi etorri gure webgunera. Orrialde honetan, beste orrialdeetara joateko estekak topatuko dituzu.</p>
+    <p>Bertan, kirolei buruz hitzegingo dizuet, zehazki <u>mendi korrikari</u> buruz. 
+    <p>Orrialde bakoitzean, atal eta gai desberdinak aurkituko dituzue.</p>
+ 
+    <img src="Zegama-Aizkorri.png" alt="" width="1000" height="600">
+</body>
+</html>
